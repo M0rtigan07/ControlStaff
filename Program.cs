@@ -6,7 +6,13 @@ namespace ControlStaff
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /*string nombre = "Ramon Ramiro";
+            float horasTrabajadas = 40;
+            Staff unEmpleado = new Staff(nombre, horasTrabajadas);
+            
+
+            Console.WriteLine(unEmpleado.ToString());*/
+            
         }
     }
 }
